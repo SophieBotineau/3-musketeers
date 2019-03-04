@@ -8,7 +8,7 @@ It accepts these arguments :
 
     -the amount
     -the currency to convert
-    -the currency to convert to usd
+    -the currency to convert to 
     
     
     
